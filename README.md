@@ -1,5 +1,11 @@
 # WorldAPI Hexed Internal Base
 
+![Hexed Banner Transparent](https://github.com/PytholIsCool/World-API-Hexed-Internal-Base/assets/95198306/90f1e96b-e70d-490c-a1e4-9d4af5911b8f)
+
+
+![WorldClient](https://github.com/PytholIsCool/World-API-Hexed-Internal-Base/assets/95198306/91e6743b-f76e-4296-b2cb-771a4b4073c3)
+
+
 ## A basic VRChat mod to kickstart your development.
 
 *Small disclaimer: None of this is my code. This is Umbra's template mod with World/Starborn API pre-installed.*
