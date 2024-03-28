@@ -3,6 +3,7 @@
 ## A basic VRChat mod to kickstart your development.
 
 *Small disclaimer: None of this is my code. This is Umbra's template mod with World/Starborn API pre-installed.*
+*Also, I haven't provided examples for everything. Just a few basic things such as toggles, regular buttons, duo buttons, sliders, etc.*
 
 All due credit should go to:
 # Umbra
