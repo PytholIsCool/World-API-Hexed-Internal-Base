@@ -8,12 +8,15 @@
 All due credit should go to:
 # Umbra
 *Creator of Hexedware and the Hexed Loader VRChat template mod.*
+
 https://github.com/Umbra999
 # Voids
 *The developer of the WorldAPI Hexed Loader port.*
+
 https://github.com/prolificpain
 # 1254_
 *The developer of WorldAPI*
+
 https://github.com/Hacker1254
 
 **For references on how to use the buttons, feel free to look at the main file:**
