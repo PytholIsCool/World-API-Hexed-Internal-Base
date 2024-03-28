@@ -46,7 +46,7 @@ namespace HexedBase
             /*
             For regular buttons, you define everything in this order:
             The text on the button, the button's tooltip, an action, whether or not the button will be a half button, whether or not theres a submenu icon/indicator (the arrow at the top left of buttons that lead to a submenu), and lastly, your button's icon.
-            I don't define everything because it's unnecessary but you can if you wanna. 
+            I don't define everything because it's unnecessary but you can if you wanna or if it is necessary for you. 
             */
             
             MainGrp.AddButton("Test", "This is a test button", () =>
