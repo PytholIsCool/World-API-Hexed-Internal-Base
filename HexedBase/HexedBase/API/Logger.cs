@@ -4,7 +4,7 @@ namespace Starborn.API
 {
     internal class LogHandler
     {
-        private static string CLIENTNAME = "STARBORN";
+        private static string CLIENTNAME = "MODNAMEHERE";
         public static void Log(string message, bool timeStamp = false, bool logToRpc = false)
         {
             if (timeStamp)
