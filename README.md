@@ -2,7 +2,10 @@
 <p align="center">
 <img src="https://github.com/PytholIsCool/Assets/blob/main/Assets/VRC/Hexed/Hexed%20Banner%20Transparent.png" />
 </p>
+
 ## A basic VRChat mod to kickstart your development.
+
+***Updated for VRChat Build [1435]***
 
 *Small disclaimer: None of this is my code. This is Umbra's template mod with World/Starborn API pre-installed.*
 *Also, I haven't provided examples for everything. Just a few basic things such as toggles, regular buttons, duo buttons, sliders, etc.*
